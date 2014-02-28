@@ -114,4 +114,51 @@ Delegasjoner fungerer som midlertidig representasjon på landsmøtet for fylker 
 Som delegasjon regnes et medlem av piratpartiet som har samlet inn minst 10 underskrifter til opprettelsen av piratpartiet i partiregisteret.
 En delegasjon har 1 stemme pr 10 underskrifter innsendt til partiets styre.
 
+'''§ 12 Politisk prosess for Piratpartiet'''
+
+'''§12.1 Generelt om politisk prosess'''
+
+Den politiske prosessen i Piratpartiet skal ta utgangspunkt i anonyme valideringer.
+Et forslag eller vedtak skal først gjennom en førstevalidering hvor et gitt antall tilfeldige pirater får en melding om å vurdere et forslag eller vedtak.
+Det kreves at en gitt fraksjon svarer innen en tidsfrist og om dette ikke skjer, får et gitt antall nye pirater en melding og slik fortsetter prosessen til antall svar har nådd den gitte fraksjonen.
+
+Etter førstevalideringen skal saken være offentlig tilgjengelig i en gitt tidsperiode før man kan fremme forslaget eller vedtaket videre til andrevalidering.
+En andrevalidering fungerer som en førstevalidering, bare at et større antall pirater er involvert.
+Endelig beslutningsmetode må være spesifisert i forsalget.
+
+Det skal være mulig å digitalt abonnere på forslag fra begge valideringsnivåer.
+Parametere for politisk prosess er beskrevet i §12.4.
+
+'''§12.2 Lokalpolitisk prosess'''
+
+'''§12.2.1 Prosess for lokalpolitiske saker oppe til vurdering i lokalpolitisk organ.'''
+
+Eksterne saker som er oppe til vurdering i et lokalpolitisk organ der Piratpartiet har en representant, må representanten ha en innstilling til.
+En valgt representant fra Piratpartiet i et lokalpolitisk organ skal i slike saker ta standpunkt til hvilken innstilling han kommer til å ha i tråd med piratpolitikk, dette skal førstevalideres.
+Passer innstillingen førstevalideringen, skal innstillingen være offentlig tilgjengelig i en gitt periode slik at man kan komme med innsigelser, alle innsigelser skal være offentlige med fullt navn.
+Programbande skal også informeres om at representantens innstilling er validert.
+
+'''§12.2.2 Prosess for lokalpolitiske saker fremmet av Piratpartiet'''
+
+Forslaget skal gjennom en prosess jf. §12.1
+
+'''§12.3 Prosess for nasjonalpolitiske saker'''
+
+Forslaget skal gjennom en prosess jf. §12.1
+
+'''§12.4 Parametere for politisk prosess'''
+
+Ved en førstevalidering skal 20 tilfeldige pirater få en melding om å vurdere et forslag, vedtak eller innstilling.
+Det kreves at 5 av 20 av disse tilfeldige piratene må ha gitt en innstilling innen en tidsfrist på 3 døgn.
+Om dette ikke skjer skal 10 nye tilfeldige pirater få en melding hvert påløpende døgn inntil 5 har gitt sin innstilling.
+Det kreves at 5 av 5 tilbakemeldinger godkjenner forslaget.
+
+Etter førstevalidering skal forslaget være offentlig tilgjengelig i 5 døgn før saken kan fremmes til andrevalidering.
+For innstillinger som angår eksterne lokalpolitiske forslag skal forslaget være førtevalidert og offentlig tilgjengelig i minst 3 døgn før innstillingen blir bærekraftig.
+
+Ved en andrevalidering skal 100 tilfeldige pirater få en melding om å vurdere et forslag, vedtak eller innstilling.
+Det kreves at 25 av 100 av disse tilfeldige piratene må ha gitt en innstilling innen 3 døgn.
+Om dette ikke skjer skal 20 nye tilfeldige pirater få en melding hvert påløpende døgn inntil 25 har gitt tilbakemelding.
+Det kreves at 20 av 25 tilbakemeldinger godkjenner forslaget.
+
 [[Category:Piratpartiet]]
