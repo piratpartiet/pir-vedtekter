@@ -69,7 +69,9 @@ Ekstraordinært landsmøte kan bare behandle den eller de saker som er angitt i 
 
 Styret utgjør partiets ledelse og består av leder (i dagligtale omtalt som kaptein), nestleder (i dagligtale omtalt som styrmann) og 5 øvrige medlemmer som velges direkte på landsmøtet for en periode på 2 år.
 
-Styret fastsetter selv sin forretningsorden, men styret holder møte med maksimum 2 måneders mellomrom og ellers når styreleder innkaller med 7 dagers varsel.
+Styret fastsetter selv sin forretningsorden, men styret holder møte med maksimum 2 måneders mellomrom og ellers når et styremedlem innkaller med 7 dagers varsel.
+Ved behov kan styreleder innkalle til hastemøte med 24 timers varsel.
+Ved hastemøter gjelder normale regler for vedtaksdyktighet.
 Styremøter skal avholdes fysisk så langt mulig, men skal suppleres med digital tilstedeværelse for de styremedlemmer som foretrekker dette for det enkelte møte.
 
 Styret er beslutningsdyktig når minimum 2/3 av styret er til stede, og styrets beslutninger treffes ved alminnelig flertall.
