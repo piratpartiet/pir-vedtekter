@@ -253,7 +253,7 @@ disposisjoner i hele partiorganisasjonen.
 
 15.2 Under Oslo fylkeslag kan det etableres bydelslag med rettigheter som lokallag.
 
-15.3 Laget skal ha et styre på minst tre medlemmer. Styret skal ha leder/kaptein, nestleder/styrmann og kasserer.
+15.3 Laget skal ha et styre på minst tre medlemmer: leder, nestleder og styremedlem.
 
 15.4 Laget plikter å avholde årsmøte med valg innen utgangen av mai måned. Stemmerett i laget har de som har betalt medlemskontingent til Piratpartiet inneværende år minst 30 dager før årsmøtets siste dag, og som er over 15 år. Fylkesstyret kan med 2/3 flertall vedta å innvilge medlemmer, som kun har betalt kontingent inneværende år, stemmerett når et nytt lokallag skal etableres, gjeldende fra og med stiftelsesdagen for lokallaget og ett år fram i tid. Årsmelding for laget, revidert regnskap og melding om valg av styre skal sendes sentralstyret, og for lokallagenes del fylkesstyret.
 
