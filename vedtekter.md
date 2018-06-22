@@ -80,7 +80,8 @@ Oppdatert 8. desember 2017.
 
 ## § 6 Landsmøtet
 
-6.1 Alle medlemmer har adgang til landsmøtet med talerett. Medlemmer har stemmerett på landsmøtet hvis de har vært medlemmer i minst 30 dager før landsmøtets siste dag.
+6.1 Alle medlemmer har adgang til landsmøtet med talerett. Medlemskap gir stemmerett på landsmøtet 
+hvis man har meldt seg inn senest 30 dager før landsmøtets siste dag.
 
 6.2 Beslutninger på landsmøtet treffes med alminnelig flertall, med mindre annet er bestemt i disse vedtektene.
 
