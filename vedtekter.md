@@ -28,15 +28,10 @@ Oppdatert 8. desember 2017.
 
 3.4.1 Piratpartiet er medlem av Det europeiske Piratpartiet (European Pirate Party – PPEU) og Internasjonale piratpartier (Pirate Parties International – PPI).
 
-3.4.2 Piratpartiets vedtekter og valgprogram kan ikke stride mot European Pirate Party eller Pirate Parties Internationals vedtekter eller manifester. Piratpartiet har stemmerett, forslagsrett og talerett i partiet PPEU og paraplyorganisasjonen PPI.
+3.4.2 Piratpartiets internasjonale arbeid består av å bidra til å etablere, støtte og fremme, og opprettholde 
+kommunikasjon og samarbeid mellom piratpartier rundt om i verden.
 
-3.4.3 Piratpartiets team for internasjonal koordinasjon er ansvarlig for at medlemmene i Piratpartiet er informert om, og har stemt over, saker som angår PPEU og PPI.
-
-3.4.4 Piratpartiets internasjonale team må følge medlemmenes avstemte mening i møte med disse.
-
-3.4.5 Kun Landsmøtet kan godkjenne endringer i internasjonale forpliktende samarbeid og langvarige relasjoner. Langvarige relasjoner er forpliktelser som overstiger 2 år i lengde.
-
-3.5 Internasjonalt team utnevnes av sekretariatet i samarbeid med styret
+3.5 Internasjonalt team utnevnes av sentralstyret.
 
 ## § 4 Medlemskap
 
@@ -74,13 +69,14 @@ Oppdatert 8. desember 2017.
 
 6. Piratstudentene (PST), jfr § 9
 
-7. Sekretariatet, jfr § 5.4
+7. Kontrollkomitéen, jfr § 12
 
 8. Landsstyret, jfr § 5.5
 
 ## § 6 Landsmøtet
 
-6.1 Alle medlemmer har adgang til landsmøtet med talerett. Medlemmer har stemmerett på landsmøtet hvis de har vært medlemmer i minst 30 dager før landsmøtets siste dag.
+6.1 Alle medlemmer har adgang til landsmøtet med talerett. Medlemskap gir stemmerett på landsmøtet 
+hvis man har meldt seg inn senest 30 dager før landsmøtets siste dag.
 
 6.2 Beslutninger på landsmøtet treffes med alminnelig flertall, med mindre annet er bestemt i disse vedtektene.
 
@@ -90,9 +86,10 @@ Oppdatert 8. desember 2017.
 
 6.3.2 Fullmakter som ved fremtidig kontroll ikke tilfredsstiller formkrav eller innehar andre feil/mangler, skal annulleres og kan føre til at tidligere vedtak ugyldiggjøres.
 
-6.4 Landsstyret fastsetter tid og sted for landsmøtet. Det lokale fylkeslaget er ansvarlig for det praktiske rundt landsmøtet, i samarbeid med Sentralstyret og Sekretariatet.
+6.4 Sentralstyret fastsetter tid og sted for landsmøtet. Det lokale fylkeslaget er ansvarlig for det praktiske 
+rundt landsmøtet.
 
-6.5 Sentralstyret i samarbeid med sekretariatet fastsetter nærmere regler for den elektroniske del av landsmøtet som skal inkludere bruk av digitale beslutningsverktøy, og digitale avstemninger i landsmøteperioden.
+6.5 Sentralstyret fastsetter nærmere regler for den elektroniske del av landsmøtet som skal inkludere bruk av digitale beslutningsverktøy, og digitale avstemninger i landsmøteperioden.
 
 6.6 Sentralstyret innkaller alle medlemmer til landsmøtet minst 30 dager før landsmøtets avholdelse via elektronisk post samt ved oppslag på partiets forum og nettside.
 
@@ -171,17 +168,17 @@ Oppdatert 8. desember 2017.
 
 8.6 Landsstyret er beslutningsdyktig når minimum 2/3 av landsstyret er til stede. Beslutninger treffes ved alminnelig flertall. Ved stemmelikhet er leders stemme utslagsgivende.
 
-8.7 Dersom landsstyret av ulike grunner ikke kan samles iht. til disse vedtektene skal generalsekretær, sammen med minst to ledere og to styremedlemmer i sentralstyret avgjøre på landsstyrets vegne.
+8.7 Dersom landsstyret av ulike grunner ikke kan samles iht. til disse vedtektene skal partisekretær, sammen med minst to ledere og to styremedlemmer i sentralstyret avgjøre på landsstyrets vegne.
 
 8.8 Paragraf 8 om Landsstyret trer i kraft når partiet får minst 1000 betalende medlemmer.
 
 ## § 9 Sentralstyret
 
-9.1 Sentralstyret utgjør partiets ledelse og består av leder, 1. nestleder, 2. nestleder og opp til 6 andre styremedlemmer som fastsettes av landsmøte. Piratpartiets generalsekretær har møte- og talerett i sentralstyret, men ikke stemmerett. Styremedlemmer velges for to år. I tillegg har Unge Pirater et fast styresete med stemmerett og styreansvar som blir valgt av landsmøtet i Piratpartiet etter forslag fra Unge Pirater selv, forutsatt at Unge Pirater kan dokumentere minst 20 betalende medlemmer i ungdomsorganisasjonen.
+9.1 Sentralstyret utgjør partiets ledelse og består av leder, 1. nestleder, 2. nestleder og opp til 6 andre styremedlemmer som fastsettes av landsmøte. Piratpartiets partisekretær har møte- og talerett i sentralstyret, men ikke stemmerett. Styremedlemmer velges for to år. I tillegg har Unge Pirater et fast styresete med stemmerett og styreansvar som blir valgt av landsmøtet i Piratpartiet etter forslag fra Unge Pirater selv, forutsatt at Unge Pirater kan dokumentere minst 20 betalende medlemmer i ungdomsorganisasjonen.
 
 Valgtidspunkt for styrevervene spesifiseres nærmere i §6.10.
 
-9.1.1 Styret velger kasserer og internasjonalt team i samarbeid med sekretariatet.
+9.1.1 Styret velger kasserer og internasjonalt team.
 
 9.2 Suppleringsvalg
 
@@ -189,11 +186,18 @@ Valgtidspunkt for styrevervene spesifiseres nærmere i §6.10.
 
 9.2.2 Dersom et styremedlem trer ut av styret før valgperioden er over vil et varamedlem rykke opp i rollen som styremedlem i henhold til vararekkefølgen valgt av landsmøtet. Leder- og nestlederrollene kan kun tildeles av landsmøtet. Dersom leder eller nestledere frafaller, eller det ikke er nok varamedlemmer til å fylle styret etter frafall, skal det kalles inn til ekstraordinært landsmøte for å avholde suppleringsvalg. Den eller de suppleringsvalgte velges for den gjenværende perioden av den/de frafalne, dersom ikke annet er bestemt av landsmøtet/ekstraordinære landsmøtet.
 
-9.3 Sentralstyret fastsetter selv sin forretningsorden, men holder møte med maksimum 2 måneders mellomrom og ellers når et styremedlem innkaller med 7 dagers varsel. Ved behov kan styreleder eller generalsekretær innkalle til hastemøte med 24 timers varsel. Ved hastemøter gjelder normale regler for vedtaksdyktighet. Styremøter skal avholdes fysisk så langt mulig, men skal suppleres med digital tilstedeværelse for de styremedlemmer som foretrekker dette for det enkelte møte.
+9.3 Sentralstyret fastsetter selv sin forretningsorden, men holder møte med maksimum 2 måneders mellomrom og ellers når et styremedlem innkaller med 7 dagers varsel. Ved behov kan styreleder innkalle til hastemøte med 24 timers varsel. Ved hastemøter gjelder normale regler for vedtaksdyktighet. Styremøter skal avholdes fysisk så langt mulig, men skal suppleres med digital tilstedeværelse for de styremedlemmer som foretrekker dette for det enkelte møte.
 
 9.4 Sentralstyret er beslutningsdyktig når minimum 2/3 av styret er til stede, og styrets beslutninger treffes ved alminnelig flertall. Ved stemmelikhet er styreleders stemme utslagsgivende.
 
 9.5 Partiets styre etter enhetsregisterloven har myndighet som partiets utøvende styre etter partiloven.
+
+9.6 Styret velger selv hvordan det vil organisere arbeidet i valgperioden. Eventuell ansettelse av 
+fagpersoner og andre støttefunksjoner innenfor vedtatte budsjettrammer gjøres ved vedtak med 2/3 
+flertall i sentralstyret som da har arbeidsgiveransvaret. Styret er bundet av spesifikke landsmøtevedtak.
+
+9.7 Styret kan ved vedtak med 2/3 flertall utnevne talspersoner for ulike politiske områder, så fremt nevnte 
+person er medlem av Piratpariet. Styret er bundet av spesifikke landsmøtevedtak.
 
 ## § 10 Ungdoms- og studentorganisasjoner
 
@@ -205,23 +209,21 @@ Unge Pirater er Piratpartiets ungdomsparti, og Piratstudentene er Piratpartiets 
 
 11.2 Sentralstyret kan meddele prokura.
 
-## § 12 Sekretariat
+## § 12 Kontrollkomitéen
 
-12.1 Generalsekretær utnevnes av Landsmøtet
+Komitéen har mandat som følger:
 
-12.2 Oppsigelse av generalsekretær kan kun og uten unntak bare foretas av kandidaten selv, eller Landsmøtet.
+12.1 Fungere som tvisteorgan (senere, i et større parti, i samarbeid med landsstyret), og dømmende 
+organ i de tilfeller hvor påstander om vedtektsbrudd fremmes.
 
-12.3 En oppsigelseprosess skal til enhver tid følge norsk lov.
+12.2 Kunne kalle inn til ekstraordinære årsmøter i lokallagene, samt ekstraordinært landsmøte
 
-12.4 Dersom generalsekretær avslutter arbeidsforholdet mellom to landsmøter kan styret ansette generalsekretær på vikariat frem til første landsmøte etter utgangen av oppsigelsestiden.
+12.3 Kunne ha fullt innsyn i regnskap, bankkonti og mulighet til å kontrollere økonomiske 
+disposisjoner i hele partiorganisasjonen.
 
-12.5 Øvre grense for lønn til generalsekretær fastsettes av Landsmøtet hvert år. Den øvre grensen skal inkludere arbeidsgiveravgift, skatt og sosiale utgifter, men ikke kontorutstyr, reise, kost- og losji.
+12.4 Kontroll med medlemsregisteret.
 
-12.6 Generalsekretær har uttalerett i alle organer, men ingen stemmerett. Unntak er beskrevet i §12.7
-
-12.7 Under Landsmøtet har generalsekretær stemmerett på lik linje med andre medlemmer etter disse vedtektene med unntak av saker som omhandler generalsekretæren og dennes stilling.
-
-12.8 Generalsekretær velger selv sammensetning av sekretariat i samarbeid med sentralstyret og er ansvarlig for å koordinere og motivere alle grupper med merkantile oppgaver.
+12.5 Jobbe med forslag til vedtektsendringer til landsmøtene.
 
 ## § 13 Eksklusjon
 
@@ -245,13 +247,13 @@ Unge Pirater er Piratpartiets ungdomsparti, og Piratstudentene er Piratpartiets 
 
 ## § 15 Fylkes- og lokallag
 
-15.1 Et lag må bestå av minst tre medlemmer og følge partiets vedtekter. Laget skal ha egne vedtekter som ikke er i konflikt med partiets vedtekter. Hvis ikke egne vedtekter er fastsatt gjelder partiets standardvedtekter for lokal- og fylkeslag. Skriftlig melding om etablering av lag må sendes sekretariatet. Meldingen skal være underskrevet av minimum 3 deltakere på møtet.
+15.1 Et lag må bestå av minst tre medlemmer og følge partiets vedtekter. Laget skal ha egne vedtekter som ikke er i konflikt med partiets vedtekter. Hvis ikke egne vedtekter er fastsatt gjelder partiets standardvedtekter for lokal- og fylkeslag. Skriftlig melding om etablering av lag må sendes partiet sentralt. Meldingen skal være underskrevet av minimum 3 deltakere på møtet.
 
 15.1.1 Laget må vedkjenne seg Piratpartiet sine vedtekter.
 
 15.2 Under Oslo fylkeslag kan det etableres bydelslag med rettigheter som lokallag.
 
-15.3 Laget skal ha et styre på minst tre medlemmer. Styret skal ha leder/kaptein, nestleder/styrmann og kasserer.
+15.3 Laget skal ha et styre på minst tre medlemmer: leder, nestleder og styremedlem.
 
 15.4 Laget plikter å avholde årsmøte med valg innen utgangen av mai måned. Stemmerett i laget har de som har betalt medlemskontingent til Piratpartiet inneværende år minst 30 dager før årsmøtets siste dag, og som er over 15 år. Fylkesstyret kan med 2/3 flertall vedta å innvilge medlemmer, som kun har betalt kontingent inneværende år, stemmerett når et nytt lokallag skal etableres, gjeldende fra og med stiftelsesdagen for lokallaget og ett år fram i tid. Årsmelding for laget, revidert regnskap og melding om valg av styre skal sendes sentralstyret, og for lokallagenes del fylkesstyret.
 
