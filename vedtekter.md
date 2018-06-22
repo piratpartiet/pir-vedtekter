@@ -195,6 +195,13 @@ Valgtidspunkt for styrevervene spesifiseres nærmere i §6.10.
 
 9.5 Partiets styre etter enhetsregisterloven har myndighet som partiets utøvende styre etter partiloven.
 
+9.6 Styret velger selv hvordan det vil organisere arbeidet i valgperioden. Eventuell ansettelse av 
+fagpersoner og andre støttefunksjoner innenfor vedtatte budsjettrammer gjøres ved vedtak med 2/3 
+flertall i sentralstyret som da har arbeidsgiveransvaret. Styret er bundet av spesifikke landsmøtevedtak.
+
+9.7 Styret kan ved vedtak med 2/3 flertall utnevne talspersoner for ulike politiske områder, så fremt nevnte 
+person er medlem av Piratpariet. Styret er bundet av spesifikke landsmøtevedtak.
+
 ## § 10 Ungdoms- og studentorganisasjoner
 
 Unge Pirater er Piratpartiets ungdomsparti, og Piratstudentene er Piratpartiets studentorganisasjon.
