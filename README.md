@@ -1,6 +1,2 @@
 # pir-vedtekter
-Vedtekter for Piratpartiet Norge
-
-Oppdatert versjon av vedtektene står i «vedtekter.md».
-
-Innholdet i filen «vedtekter.mediawiki» er utdatert.
+Vedtekter for Piratpartiet Norge. Siste endringer vedtatt på landsmøte i Oslo 13. mai 2018.
