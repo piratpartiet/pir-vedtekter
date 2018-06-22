@@ -28,15 +28,10 @@ Oppdatert 8. desember 2017.
 
 3.4.1 Piratpartiet er medlem av Det europeiske Piratpartiet (European Pirate Party – PPEU) og Internasjonale piratpartier (Pirate Parties International – PPI).
 
-3.4.2 Piratpartiets vedtekter og valgprogram kan ikke stride mot European Pirate Party eller Pirate Parties Internationals vedtekter eller manifester. Piratpartiet har stemmerett, forslagsrett og talerett i partiet PPEU og paraplyorganisasjonen PPI.
+3.4.2 Piratpartiets internasjonale arbeid består av å bidra til å etablere, støtte og fremme, og opprettholde 
+kommunikasjon og samarbeid mellom piratpartier rundt om i verden.
 
-3.4.3 Piratpartiets team for internasjonal koordinasjon er ansvarlig for at medlemmene i Piratpartiet er informert om, og har stemt over, saker som angår PPEU og PPI.
-
-3.4.4 Piratpartiets internasjonale team må følge medlemmenes avstemte mening i møte med disse.
-
-3.4.5 Kun Landsmøtet kan godkjenne endringer i internasjonale forpliktende samarbeid og langvarige relasjoner. Langvarige relasjoner er forpliktelser som overstiger 2 år i lengde.
-
-3.5 Internasjonalt team utnevnes av sekretariatet i samarbeid med styret
+3.5 Internasjonalt team utnevnes av sentralstyret.
 
 ## § 4 Medlemskap
 
