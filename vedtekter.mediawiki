@@ -33,6 +33,8 @@ Beslutninger på landsmøtet treffes med alminnelig stemmeflertall, med mindre a
 Landsmøtet avholdes såvidt mulig elektronisk, supplert med en sistedag som avholdes fysisk.
 Styret fastsetter nærmere regler for den elektroniske del av landsmøtet som skal inkludere bruk av digitale beslutningsverktøy, og digitale avstemninger i landsmøteperioden.
 
+Regler for bruk av digitale beslutningsverktøy utenom landsmøtet besluttes av landsmøtet.
+
 Styret innkaller alle medlemmer til landsmøtet minst 14 dager før landsmøtets avholdelse via elektronisk post samt ved oppslag på partiets forum og nettside.
 
 Piratpartiets partiorganer kan ikke instruere folkevalgte som er innvalgt for Piratpartiet utover det program de er valgt på.
@@ -67,7 +69,9 @@ Ekstraordinært landsmøte kan bare behandle den eller de saker som er angitt i 
 
 Styret utgjør partiets ledelse og består av leder (i dagligtale omtalt som kaptein), nestleder (i dagligtale omtalt som styrmann) og 5 øvrige medlemmer som velges direkte på landsmøtet for en periode på 2 år.
 
-Styret fastsetter selv sin forretningsorden, men styret holder møte med maksimum 2 måneders mellomrom og ellers når styreleder innkaller med 7 dagers varsel.
+Styret fastsetter selv sin forretningsorden, men styret holder møte med maksimum 2 måneders mellomrom og ellers når et styremedlem innkaller med 7 dagers varsel.
+Ved behov kan styreleder innkalle til hastemøte med 24 timers varsel.
+Ved hastemøter gjelder normale regler for vedtaksdyktighet.
 Styremøter skal avholdes fysisk så langt mulig, men skal suppleres med digital tilstedeværelse for de styremedlemmer som foretrekker dette for det enkelte møte.
 
 Styret er beslutningsdyktig når minimum 2/3 av styret er til stede, og styrets beslutninger treffes ved alminnelig flertall.
@@ -91,6 +95,9 @@ Et ekskludert medlem kan kreve at eksklusjonen forelegges neste landsmøte.
 Det ekskluderte medlem har adgang til landsmøtets behandling av eksklusjonen, og har her talerett.
 Landsmøtet kan treffe beslutning om at eksklusjonen oppheves.
 
+Sentralstyret har myndighet til å suspendere medlemmer av partiet med umiddelbar virkning.
+En slik avgjørelse krever minimum 2/3 flertall i sentralstyret, og vedtaket må bekreftes med 2/3 flertall ved påfølgende landsmøte.
+
 '''§10 Vedtektsendringer'''
 
 Forslag til vedtektsendringer må være mottatt av styret minst 3 uker før landsmøtet.
@@ -106,5 +113,52 @@ Delegasjoner fungerer som midlertidig representasjon på landsmøtet for fylker 
 
 Som delegasjon regnes et medlem av piratpartiet som har samlet inn minst 10 underskrifter til opprettelsen av piratpartiet i partiregisteret.
 En delegasjon har 1 stemme pr 10 underskrifter innsendt til partiets styre.
+
+'''§ 12 Politisk prosess for Piratpartiet'''
+
+'''§12.1 Generelt om politisk prosess'''
+
+Den politiske prosessen i Piratpartiet skal ta utgangspunkt i anonyme valideringer.
+Et forslag eller vedtak skal først gjennom en førstevalidering hvor et gitt antall tilfeldige pirater får en melding om å vurdere et forslag eller vedtak.
+Det kreves at en gitt fraksjon svarer innen en tidsfrist og om dette ikke skjer, får et gitt antall nye pirater en melding og slik fortsetter prosessen til antall svar har nådd den gitte fraksjonen.
+
+Etter førstevalideringen skal saken være offentlig tilgjengelig i en gitt tidsperiode før man kan fremme forslaget eller vedtaket videre til andrevalidering.
+En andrevalidering fungerer som en førstevalidering, bare at et større antall pirater er involvert.
+Endelig beslutningsmetode må være spesifisert i forsalget.
+
+Det skal være mulig å digitalt abonnere på forslag fra begge valideringsnivåer.
+Parametere for politisk prosess er beskrevet i §12.4.
+
+'''§12.2 Lokalpolitisk prosess'''
+
+'''§12.2.1 Prosess for lokalpolitiske saker oppe til vurdering i lokalpolitisk organ.'''
+
+Eksterne saker som er oppe til vurdering i et lokalpolitisk organ der Piratpartiet har en representant, må representanten ha en innstilling til.
+En valgt representant fra Piratpartiet i et lokalpolitisk organ skal i slike saker ta standpunkt til hvilken innstilling han kommer til å ha i tråd med piratpolitikk, dette skal førstevalideres.
+Passer innstillingen førstevalideringen, skal innstillingen være offentlig tilgjengelig i en gitt periode slik at man kan komme med innsigelser, alle innsigelser skal være offentlige med fullt navn.
+Programbande skal også informeres om at representantens innstilling er validert.
+
+'''§12.2.2 Prosess for lokalpolitiske saker fremmet av Piratpartiet'''
+
+Forslaget skal gjennom en prosess jf. §12.1
+
+'''§12.3 Prosess for nasjonalpolitiske saker'''
+
+Forslaget skal gjennom en prosess jf. §12.1
+
+'''§12.4 Parametere for politisk prosess'''
+
+Ved en førstevalidering skal 20 tilfeldige pirater få en melding om å vurdere et forslag, vedtak eller innstilling.
+Det kreves at 5 av 20 av disse tilfeldige piratene må ha gitt en innstilling innen en tidsfrist på 3 døgn.
+Om dette ikke skjer skal 10 nye tilfeldige pirater få en melding hvert påløpende døgn inntil 5 har gitt sin innstilling.
+Det kreves at 5 av 5 tilbakemeldinger godkjenner forslaget.
+
+Etter førstevalidering skal forslaget være offentlig tilgjengelig i 5 døgn før saken kan fremmes til andrevalidering.
+For innstillinger som angår eksterne lokalpolitiske forslag skal forslaget være førtevalidert og offentlig tilgjengelig i minst 3 døgn før innstillingen blir bærekraftig.
+
+Ved en andrevalidering skal 100 tilfeldige pirater få en melding om å vurdere et forslag, vedtak eller innstilling.
+Det kreves at 25 av 100 av disse tilfeldige piratene må ha gitt en innstilling innen 3 døgn.
+Om dette ikke skjer skal 20 nye tilfeldige pirater få en melding hvert påløpende døgn inntil 25 har gitt tilbakemelding.
+Det kreves at 20 av 25 tilbakemeldinger godkjenner forslaget.
 
 [[Category:Piratpartiet]]
