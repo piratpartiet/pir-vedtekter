@@ -1,6 +1,6 @@
 # Piratpartiets vedtekter
 
-Oppdatert 13. mai 2018.
+Oppdatert 9. desember 2018.
 
 ## § 1 Navn
 
@@ -153,6 +153,8 @@ rundt landsmøtet.
 7.3.8 Det er ikke anledning for å fremlegge initiativ eller avholde FDL mellom 23. juni og 8. august, eller mellom 17. desember og 8. januar, heller ikke i perioden fra 30 dager før og 30 dager etter avsluttet ordinært landsmøte.
 
 7.3.9 Piratkodeksen kan kun endres på ordinært landsmøte, og kan kun endres ved 2/3 flertall.
+
+7.3.10: Sentralstyret kan med 2/3 flertall igangsette behandling av forslag som om §7.3.1 og 7.3.2 er oppfylt.
 
 ## § 8 Landsstyret
 
