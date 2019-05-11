@@ -1,6 +1,6 @@
 # Piratpartiets vedtekter
 
-Oppdatert 9. desember 2018.
+Oppdatert 2019-04-28.
 
 ## § 1 Navn
 
@@ -20,9 +20,12 @@ Oppdatert 9. desember 2018.
 
 3.1 Piratpartiet ble stiftet 28. juni 2012 som Foreningen Piratene, og registrert i partiregisteret 16. desember 2012. Piratpartiets kjerneprogram og den internasjonale piratkodeksen ligger alltid til grunn når politikk vedtas. Fylkes- og lokalpartier har kun mulighet til å vedta politikk med utelukkende lokale konsekvenser. All politikk skal vedtas gjennom transparente og breddedemokratiske prosesser der alle stemmeberettigede medlemmer har mulighet til å delta.
 
-3.2 Kjerneprogrammet revideres når foregående landsmøte har bestemt det og nedsatt programkomité for dette formålet, eller via initiativer på Forenklede Digitale Landsmøter. Ved endring av kjerneprogrammet vedtas hvert enkelt forslag med alminnelig flertall.
+3.2 Kjerneprogram og valgprogram kan revideres av Landsmøtet eller via initiativer på Forenklede Digitale Landsmøter. Forslag til endringer i kjerneprogram må være sendt inn minst 3 uker før Landsmøtets første dag.
 
-3.3 Valgprogrammet revideres av landsmøtet eller via initiativer på Forenklede Digitale Landsmøter. Foregående landsmøte velger programkomitéen. Valgprogram og andre delprogrammer skal være innenfor rammene av kjerneprogrammet og vedtas med alminnelig flertall.
+3.3. Valgprogram, delprogrammer, og uttalelser skal være innenfor rammene av kjerneprogrammet og piratkodeksen. En programkomite kan velges på Landsmøtet som skal:
+
+    1. Fremme forslag til forbedringer av eksisterende program til neste Landsmøte
+    2. Behandle innkommende forslag i tråd med retningslinjer fastlagt av sentralstyret
 
 3.4 Internasjonale forbindelser
 
@@ -107,9 +110,9 @@ rundt landsmøtet.
 
 5. Valg av sentralstyre som følger:
 
-    Valg av leder/kaptein.
-    Valg av 1. politisk nestleder/styrmann.
-    Valg av 2. organisatorisk nestleder/styrmann.
+    Valg av leder.
+    Valg av 1. politisk nestleder.
+    Valg av 2. organisatorisk nestleder.
     Valg av 3 varamedlemmer i prioritert rekkefølge.
     Representant fra Unge Pirater, valgt av Unge Pirater.
     Valg av øvrige styremedlemmer.
@@ -125,8 +128,6 @@ rundt landsmøtet.
 6.10 Valg av leder og 2. nestleder (politisk) for to år skal skje utenom ordinære valgår. 1. nestleder (organisatorisk) skal velges for to år i ordinære valgår. Øvrige styremedlemmer velges for to år og slik at så nært som mulig halvparten av medlemmene er på valg annethvert år. Varamedlemmer velges for ett år av gangen, ref. §6.8.
 
 6.11 Dersom det av ulike grunner er valg på noen av lederstillingene utenom dette mønsteret, f.eks. ved at en leder trekker seg før perioden er omme, blir den nye kandidaten valgt frem til neste ordinære valg iht. disse vedtektene, dvs. kortere enn en to-årsperiode.
-
-6.12 For 2016 fortsetter leder etter dette i 2 år til landsmøtet etter neste Stortingsvalg i 2017. I 2016 velges 1. nestleder for ett år, deretter iht. §6.10. 2. nestleder velges som normalt for to år. Denne delparagrafen, §6.12, opphører automatisk 31.12.2016 kl 23:59.
 
 ## § 7 Ekstraordinært landsmøte og Forenklede Digitale Landsmøter (FDL)
 
@@ -176,11 +177,17 @@ rundt landsmøtet.
 
 ## § 9 Sentralstyret
 
-9.1 Sentralstyret utgjør partiets ledelse og består av leder, 1. nestleder, 2. nestleder og opp til 6 andre styremedlemmer som fastsettes av landsmøte. Piratpartiets partisekretær har møte- og talerett i sentralstyret, men ikke stemmerett. Styremedlemmer velges for to år. I tillegg har Unge Pirater et fast styresete med stemmerett og styreansvar som blir valgt av landsmøtet i Piratpartiet etter forslag fra Unge Pirater selv, forutsatt at Unge Pirater kan dokumentere minst 20 betalende medlemmer i ungdomsorganisasjonen.
+9.1 Sentralstyret utgjør partiets ledelse og består av leder, 1. nestleder, 2. nestleder og opp til 6 andre styremedlemmer som velges av landsmøte. Styremedlemmer velges for to år.
 
 Valgtidspunkt for styrevervene spesifiseres nærmere i §6.10.
 
 9.1.1 Styret velger kasserer og internasjonalt team.
+
+9.1.2. Forutsetning for at tilknyttede organisasjoner skal ha styrerepresentasjon i sentralorganisasjonen er at styrerepresentasjonen er gjensidig. Fulle rettigheter som styremedlem kan ikke tiltres før representasjonen er gjensidig, men valgte kandidater kan møte i styremøtene med møte og talerett.
+
+9.1.3. Landsmøtet i Unge Pirater kan for ett år av gangen velge ett styremedlem fra sin organisasjon som kandidat til valg som ekstra styremedlem til sentralstyret med fulle rettigheter og ansvar, og denne kandidaten kan så velges på Landsmøtet i Piratpartiet. Dette trer i kraft når medlemstallet i Unge Pirater overstiger 100 medlemmer, eller når Landsmøtet i Piratpartiet gjør et vedtak om å åpne opp for representasjon for ett år om gangen.
+
+9.1.4. Landsmøtet i Piratstudentene kan for ett år av gangen velge ett styremedlem fra sin organisasjon som kandidat til valg som ekstra styremedlem til sentralstyret med fulle rettigheter og ansvar, og denne kandidaten kan så velges på Landsmøtet i Piratpartiet. Dette trer i kraft når medlemstallet i Piratstudentene overstiger 100 medlemmer, eller når Landsmøtet i Piratpartiet gjør et vedtak om å åpne opp for representasjon for ett år om gangen.
 
 9.2 Suppleringsvalg
 
@@ -190,7 +197,7 @@ Valgtidspunkt for styrevervene spesifiseres nærmere i §6.10.
 
 9.3 Sentralstyret fastsetter selv sin forretningsorden, men holder møte med maksimum 2 måneders mellomrom og ellers når et styremedlem innkaller med 7 dagers varsel. Ved behov kan styreleder innkalle til hastemøte med 24 timers varsel. Ved hastemøter gjelder normale regler for vedtaksdyktighet. Styremøter skal avholdes fysisk så langt mulig, men skal suppleres med digital tilstedeværelse for de styremedlemmer som foretrekker dette for det enkelte møte.
 
-9.4 Sentralstyret er beslutningsdyktig når minimum 2/3 av styret er til stede, og styrets beslutninger treffes ved alminnelig flertall. Ved stemmelikhet er styreleders stemme utslagsgivende.
+9.4 Sentralstyret er beslutningsdyktig når minimum 2/3 av styret er til stede, og styrets beslutninger treffes ved alminnelig flertall. Ved stemmelikhet er styreleders stemme utslagsgivende. Ekstra styremedlemmer fra Unge Pirater og Piratstudentene medregnes ikke angående beslutningdyktighet.
 
 9.5 Partiets styre etter enhetsregisterloven har myndighet som partiets utøvende styre etter partiloven.
 
