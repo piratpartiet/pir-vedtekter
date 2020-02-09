@@ -1,6 +1,6 @@
 # Piratpartiets vedtekter
 
-Oppdatert 28. april 2019.
+Oppdatert 15. desember 2019.
 
 ## § 1 Navn
 
