@@ -137,7 +137,9 @@ rundt landsmøtet.
 
 7.3 Forenklede Digitale Landsmøter (FDL)
 
-7.3.1 Dersom minst 10 % av medlemmene fremmer et forslag, så skal det innen 30 dager igangsettes en hel-digital prosess med landsmøte-myndighet ovenfor forslaget.
+7.3.1 Dersom minst 10 % av medlemmene fremmer et forslag, så skal det innen 30 dager igangsettes en hel-digital prosess med landsmøte-myndighet overfor forslaget.
+
+Kun saker som foreligger som initiativ kan behandles. Igangsettelse skal varsles til alle medlemmer innen 14 dager før oppstart, og alle saksdokumenter skal være tilgjengelige før diskusjon av sakene starter.
 
 7.3.2 Et forslag til avstemning (initiativ) foreligger straks det har oppnådd nok støtte i henhold til §7.3.1.
 
