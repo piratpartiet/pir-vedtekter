@@ -1,6 +1,6 @@
 # Piratpartiets vedtekter
 
-Oppdatert 15. desember 2019.
+Oppdatert 19. april 2020.
 
 ## § 1 Navn
 
@@ -83,7 +83,7 @@ hvis man har meldt seg inn senest 30 dager før landsmøtets siste dag.
 
 6.2 Beslutninger på landsmøtet treffes med alminnelig flertall, med mindre annet er bestemt i disse vedtektene.
 
-6.3 Landsmøtet avholdes fysisk, med unntak av de som ikke kan møte opp og derfor skal gis anledning til å stemme elektronisk.
+6.3 Landsmøtet skal avholdes fysisk, men tilrettelegges for digital deltakelse slik at alle medlemmer kan avgi stemme elektronisk.
 
 6.3.1 Eventuelle fullmakter må sendes inn senest 1 uke før landsmøtet, og må tilfredsstille formkrav vedtatt av kontrollkomitéen. Fullmakter skal arkiveres for å muliggjøre fremtidig kontroll.
 
@@ -106,7 +106,7 @@ rundt landsmøtet.
 
 3. Leders beretning.
 
-4. Foreleggelse av revidert årsrapport.
+4. Foreleggelse av regnskap og budsjett.
 
 5. Valg av sentralstyre som følger:
 
