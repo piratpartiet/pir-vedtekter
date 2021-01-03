@@ -157,7 +157,8 @@ Kun saker som foreligger som initiativ kan behandles. Igangsettelse skal varsles
 
 7.3.9 Piratkodeksen kan kun endres på ordinært landsmøte, og kan kun endres ved 2/3 flertall.
 
-7.3.10: Sentralstyret kan med 2/3 flertall igangsette behandling av forslag som om §7.3.1 og 7.3.2 er oppfylt.
+7.3.10: Sentralstyret kan med 2/3 flertall igangsette behandling av forslag som om §7.3.1 og 7.3.2 er oppfylt, og kan se bort fra 7.3.5 for tilhørende FDL.
+
 
 ## § 8 Landsstyret
 
