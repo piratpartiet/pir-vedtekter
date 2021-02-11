@@ -1,6 +1,6 @@
 # Piratpartiets vedtekter
 
-Oppdatert 19. april 2020.
+Oppdatert 15. november 2020.
 
 ## § 1 Navn
 
@@ -78,8 +78,7 @@ kommunikasjon og samarbeid mellom piratpartier rundt om i verden.
 
 ## § 6 Landsmøtet
 
-6.1 Alle medlemmer har adgang til landsmøtet med talerett. Medlemskap gir stemmerett på landsmøtet 
-hvis man har meldt seg inn senest 30 dager før landsmøtets siste dag.
+6.1 Alle medlemmer har adgang til landsmøtet med talerett. Medlemskap gir stemmerett på landsmøtet hvis man har meldt seg inn senest 30 dager før landsmøtets siste dag eller har en aktiv betalingsavtale (avtalegiro, fasttrekk, m.m.) med siste innbetaling forrige år.
 
 6.2 Beslutninger på landsmøtet treffes med alminnelig flertall, med mindre annet er bestemt i disse vedtektene.
 
@@ -104,7 +103,7 @@ rundt landsmøtet.
 
 2. Godkjenning av innkalling til landsmøtet og det praktiske arrangement rundt den elektroniske delen av landsmøtet.
 
-3. Leders beretning.
+3. Styrets beretning.
 
 4. Foreleggelse av regnskap og budsjett.
 
@@ -117,17 +116,21 @@ rundt landsmøtet.
     Representant fra Unge Pirater, valgt av Unge Pirater.
     Valg av øvrige styremedlemmer.
 
-6. Valg av revisor.
+6. Valg av kontrollkomite og valgkomite.
+   
+7. Valg av revisor.
 
-7. Politisk debatt.
+8. Politisk debatt.
 
-8. Ved avslutningen av landsmøtet undertegnes protokollen av to personer som har vært tilstede under landsmøtet.
+9.  Ved avslutningen av landsmøtet undertegnes protokollen av to personer som har vært tilstede under landsmøtet.
 
 6.9 Forslag som ønskes behandlet på ordinært landsmøte kan fremsettes av ethvert medlem som har stemmerett på landsmøtet, og skal være sendt til styret senest 3 uker før landsmøtet holdes.
 
 6.10 Valg av leder og 2. nestleder (politisk) for to år skal skje utenom ordinære valgår. 1. nestleder (organisatorisk) skal velges for to år i ordinære valgår. Øvrige styremedlemmer velges for to år og slik at så nært som mulig halvparten av medlemmene er på valg annethvert år. Varamedlemmer velges for ett år av gangen, ref. §6.8.
 
 6.11 Dersom det av ulike grunner er valg på noen av lederstillingene utenom dette mønsteret, f.eks. ved at en leder trekker seg før perioden er omme, blir den nye kandidaten valgt frem til neste ordinære valg iht. disse vedtektene, dvs. kortere enn en to-årsperiode.
+
+6.12 Alle kandidater til sentralstyret må være fremmet til valgkomiteen senest en uke før Landsmøtet etter nominasjon fra et eller flere av fylkeslagene.
 
 ## § 7 Ekstraordinært landsmøte og Forenklede Digitale Landsmøter (FDL)
 
@@ -157,7 +160,8 @@ Kun saker som foreligger som initiativ kan behandles. Igangsettelse skal varsles
 
 7.3.9 Piratkodeksen kan kun endres på ordinært landsmøte, og kan kun endres ved 2/3 flertall.
 
-7.3.10: Sentralstyret kan med 2/3 flertall igangsette behandling av forslag som om §7.3.1 og 7.3.2 er oppfylt.
+7.3.10: Sentralstyret kan med 2/3 flertall igangsette behandling av forslag som om §7.3.1 og 7.3.2 er oppfylt, og kan se bort fra 7.3.5 for tilhørende FDL.
+
 
 ## § 8 Landsstyret
 
@@ -179,7 +183,7 @@ Kun saker som foreligger som initiativ kan behandles. Igangsettelse skal varsles
 
 ## § 9 Sentralstyret
 
-9.1 Sentralstyret utgjør partiets ledelse og består av leder, 1. nestleder, 2. nestleder og opp til 6 andre styremedlemmer som velges av landsmøte. Styremedlemmer velges for to år.
+9.1 Sentralstyret utgjør partiets ledelse og består av leder, organisatorisk nestleder, politisk nestleder og opp til 6 andre styremedlemmer som velges av landsmøte. Styremedlemmer velges for to år.
 
 Valgtidspunkt for styrevervene spesifiseres nærmere i §6.10.
 
@@ -193,7 +197,8 @@ Valgtidspunkt for styrevervene spesifiseres nærmere i §6.10.
 
 9.2 Suppleringsvalg
 
-9.2.1 Ved leders fravær overtar en eller begge nestledere midlertidig leders myndighet, dette fastsettes i en enighet mellom landsstyret og sentralstyret.
+9.2.1 Ved leders fravær overtar en eller begge nestledere midlertidig leders myndighet, dette fastsettes i en enighet mellom landsstyret og sentralstyret. Ved fravær av et aktivt landsstyre overtar fylkeslagene samme funksjon.
+
 
 9.2.2 Dersom et styremedlem trer ut av styret før valgperioden er over vil et varamedlem rykke opp i rollen som styremedlem i henhold til vararekkefølgen valgt av landsmøtet. Leder- og nestlederrollene kan kun tildeles av landsmøtet. Dersom leder eller nestledere frafaller, eller det ikke er nok varamedlemmer til å fylle styret etter frafall, skal det kalles inn til ekstraordinært landsmøte for å avholde suppleringsvalg. Den eller de suppleringsvalgte velges for den gjenværende perioden av den/de frafalne, dersom ikke annet er bestemt av landsmøtet/ekstraordinære landsmøtet.
 
@@ -209,6 +214,8 @@ flertall i sentralstyret som da har arbeidsgiveransvaret. Styret er bundet av sp
 
 9.7 Styret kan ved vedtak med 2/3 flertall utnevne talspersoner for ulike politiske områder, så fremt nevnte 
 person er medlem av Piratpariet. Styret er bundet av spesifikke landsmøtevedtak.
+
+9.8 Styremøter skal, med unntak av der lovpålagt taushetsplikt og annen lov ligger til hinder, være åpne for alle medlemmer. Referater skal føres og gjøres åpne og tilgjengelige for alle.
 
 ## § 10 Ungdoms- og studentorganisasjoner
 
